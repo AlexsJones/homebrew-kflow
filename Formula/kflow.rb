@@ -2,7 +2,7 @@ class Kflow < Formula
   desc "Like top for Kubernetes networking"
   homepage "https://github.com/AlexsJones/kflow"
   url "https://github.com/AlexsJones/kflow/archive/refs/tags/v0.0.9.tar.gz"
-  sha256 "d487f6a1ec77dcc84a8ab147163cd7ab7da9eedb47776992a4b1edcddfb7f22d"
+  sha256 "ca5993a8d2c1c73a60f21177cbe914509608ab13d22b8e1f2af874763217f4d4"
   license "MIT"
   version "0.0.9"
 
