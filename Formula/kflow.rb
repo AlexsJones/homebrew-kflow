@@ -1,10 +1,10 @@
 class Kflow < Formula
   desc "Like top for Kubernetes networking"
   homepage "https://github.com/AlexsJones/kflow"
-  url "https://github.com/AlexsJones/kflow/archive/refs/tags/v0.0.8.tar.gz"
-  sha256 "5dd3c2fe3d7ef503afc6739ba08eec02d5f5a6450f0308b019ebe84f8e114c68"
+  url "https://github.com/AlexsJones/kflow/archive/refs/tags/v0.0.9.tar.gz"
+  sha256 "ba5efa586f8766a4bf95fed3838019e75feacbbc0182a4c4e1623e079e2d540b"
   license "MIT"
-  version "0.0.8"
+  version "0.0.9"
 
   depends_on "rust" => :build
 
